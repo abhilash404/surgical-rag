@@ -1,0 +1,136 @@
+{
+  "passages": [
+    {
+      "id": "p1",
+      "text": "The Amazon Rainforest is the largest tropical rainforest in the world, spanning nine nations in South America. It represents over half of the planet's remaining rainforests and comprises the largest biodiversity of any tropical forest. The majority of the forest is contained within Brazil, followed by Peru and Colombia."
+    },
+    {
+      "id": "p2",
+      "text": "The Amazon River, which flows through the Amazon Rainforest, is the second longest river in the world. It carries more water than any other river system and accounts for approximately one-fifth of the world's total river flow. Many indigenous communities rely on its waters for transportation and food."
+    },
+    {
+      "id": "p3",
+      "text": "Sir Isaac Newton was an English mathematician and physicist who is widely recognized as one of the most influential scientists of all time. In 1687, he published 'Philosophiæ Naturalis Principia Mathematica', which laid the foundations of classical mechanics. He is also famous for his law of universal gravitation."
+    },
+    {
+      "id": "p4",
+      "text": "The Apollo 11 mission was the first spaceflight that landed humans on the Moon in July 1969. Commander Neil Armstrong and lunar module pilot Buzz Aldrin landed the Apollo Lunar Module Eagle. Armstrong became the first person to step onto the lunar surface six hours later."
+    },
+    {
+      "id": "p5",
+      "text": "DNA, or deoxyribonucleic acid, is a molecule that carries the genetic instructions used in the growth, development, and reproduction of all known organisms. It consists of two polynucleotide chains that coil around each other to form a double helix. The structure was famously identified by James Watson and Francis Crick in 1953."
+    },
+    {
+      "id": "p6",
+      "text": "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The international border between Nepal and China runs across its summit point. It reaches an elevation of 8,848.86 metres."
+    },
+    {
+      "id": "p7",
+      "text": "The Roman Empire was one of the largest empires in history, centered on the Mediterranean Sea. At its height under Emperor Trajan, it covered five million square kilometres and held sway over 70 million people. It was eventually divided into Western and Eastern halves in the late 3rd century AD."
+    },
+    {
+      "id": "p8",
+      "text": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands. It is located in the Coral Sea, off the coast of Queensland, Australia. The reef is a protected marine park and is a World Heritage Site."
+    },
+    {
+      "id": "p9",
+      "text": "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize and the only person to win the Nobel Prize in two different scientific fields: Physics and Chemistry. She discovered the elements polonium and radium."
+    },
+    {
+      "id": "p10",
+      "text": "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy. This energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and water. Oxygen is released as a byproduct of this reaction."
+    },
+    {
+      "id": "p11",
+      "text": "World War II was a global conflict that lasted from 1939 to 1945. It involved the vast majority of the world's countries, including all of the great powers, forming two opposing military alliances: the Allies and the Axis. It was the deadliest conflict in human history, resulting in 70 to 85 million fatalities."
+    },
+    {
+      "id": "p12",
+      "text": "The Colosseum, also known as the Flavian Amphitheatre, is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine limestone, tuff, and brick-faced concrete, it was the largest amphitheatre ever built at the time. It could hold an estimated 50,000 to 80,000 spectators."
+    },
+    {
+      "id": "p13",
+      "text": "The Periodic Table is a tabular display of the chemical elements, which are arranged by atomic number, electron configuration, and recurring chemical properties. Elements are presented in order of increasing atomic number. Dmitri Mendeleev is credited with publishing the first widely recognized periodic table in 1869."
+    },
+    {
+      "id": "p14",
+      "text": "The Renaissance was a fervent period of European cultural, artistic, political, and economic rebirth following the Middle Ages. Generally described as taking place from the 14th century to the 17th century, the Renaissance promoted the rediscovery of classical philosophy, literature, and art. Figures like Leonardo da Vinci and Michelangelo were key contributors."
+    },
+    {
+      "id": "p15",
+      "text": "Japan is an island country in East Asia, located in the northwest Pacific Ocean. It is bordered by the Sea of Japan to the west and extends from the Sea of Okhotsk in the north to the East China Sea in the south. Tokyo is the nation's capital and most populous city."
+    },
+    {
+      "id": "p16",
+      "text": "The Pacific Ocean is the largest and deepest of Earth's five oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean in the south. It covers about 165 million square kilometers, which is larger than the total land area of the world."
+    },
+    {
+      "id": "p17",
+      "text": "Charles Darwin was an English naturalist, geologist, and biologist, best known for his contributions to evolutionary biology. His proposition that all species of life have descended from common ancestors is now widely accepted. He published his theory of evolution with compelling evidence in his 1859 book 'On the Origin of Species'."
+    },
+    {
+      "id": "p18",
+      "text": "The Sahara is a desert on the African continent. With an area of 9.2 million square kilometres, it is the largest hot desert in the world and the third largest desert overall. It covers much of North Africa, excluding the fertile region on the Mediterranean sea coast."
+    },
+    {
+      "id": "p19",
+      "text": "The Industrial Revolution was the transition to new manufacturing processes in Great Britain, continental Europe, and the United States, in the period from about 1760 to about 1840. This transition included going from hand production methods to machines. It led to an unprecedented rise in the rate of population growth."
+    },
+    {
+      "id": "p20",
+      "text": "The Olympic Games are leading international sporting events featuring summer and winter sports competitions. The modern Olympic Games were inspired by the ancient Olympic Games, which were held in Olympia, Greece, from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee in 1894."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the largest tropical rainforest and what major river flows through it?",
+      "relevant_passage_ids": ["p1", "p2"]
+    },
+    {
+      "id": "q2",
+      "question": "Which book did Isaac Newton publish in 1687?",
+      "relevant_passage_ids": ["p3"]
+    },
+    {
+      "id": "q3",
+      "question": "Who were the astronauts involved in the Apollo 11 moon landing?",
+      "relevant_passage_ids": ["p4"]
+    },
+    {
+      "id": "q4",
+      "question": "What is the molecular structure of DNA and who identified it?",
+      "relevant_passage_ids": ["p5"]
+    },
+    {
+      "id": "q5",
+      "question": "Which two countries share the border at the summit of Mount Everest?",
+      "relevant_passage_ids": ["p6"]
+    },
+    {
+      "id": "q6",
+      "question": "In which two scientific fields did Marie Curie win Nobel Prizes?",
+      "relevant_passage_ids": ["p9"]
+    },
+    {
+      "id": "q7",
+      "question": "How many people died in World War II and how long did the conflict last?",
+      "relevant_passage_ids": ["p11"]
+    },
+    {
+      "id": "q8",
+      "question": "Who created the first periodic table and how are elements currently arranged in it?",
+      "relevant_passage_ids": ["p13"]
+    },
+    {
+      "id": "q9",
+      "question": "Compare the size of the Pacific Ocean to the total land area of the Earth.",
+      "relevant_passage_ids": ["p16"]
+    },
+    {
+      "id": "q10",
+      "question": "What were the dates of the Ancient Olympic Games and who founded the modern committee?",
+      "relevant_passage_ids": ["p20"]
+    }
+  ]
+}
