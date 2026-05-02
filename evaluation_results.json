@@ -1,0 +1,44 @@
+{
+  "test_cases": [
+    {
+      "query": "What is the molecular structure of DNA and who identified it?",
+      "baseline_hallucinations": 1,
+      "final_hallucinations": 0,
+      "repair_tokens": 208,
+      "fixed": 1
+    },
+    {
+      "query": "Who were the astronauts in Apollo 11?",
+      "baseline_hallucinations": 1,
+      "final_hallucinations": 1,
+      "repair_tokens": 180,
+      "fixed": 0
+    },
+    {
+      "query": "Which book did Isaac Newton publish in 1687?",
+      "baseline_hallucinations": 1,
+      "final_hallucinations": 1,
+      "repair_tokens": 198,
+      "fixed": 0
+    },
+    {
+      "query": "In which two scientific fields did Marie Curie win Nobel Prizes?",
+      "baseline_hallucinations": 2,
+      "final_hallucinations": 1,
+      "repair_tokens": 406,
+      "fixed": 1
+    },
+    {
+      "query": "How many people died in World War II?",
+      "baseline_hallucinations": 1,
+      "final_hallucinations": 1,
+      "repair_tokens": 219,
+      "fixed": 0
+    }
+  ],
+  "summary": {
+    "improvement_pct": 33.33,
+    "token_efficiency_gain": 69.73,
+    "total_repair_tokens": 1211
+  }
+}
